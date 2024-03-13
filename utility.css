@@ -1,0 +1,46 @@
+.Heading{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+    
+}
+.text-center
+{
+    text-align: center;
+}
+.black{
+    background-color: rgb(59, 61, 62);
+    color: white;
+    font-size: 20px;
+  
+}
+
+.orange{
+    background-color: rgb(253, 164, 0);
+    color: white;
+      
+}
+
+.zero{
+    text-align: left;
+    width: 130px;
+}
+
+.equal{
+    width: 150px;
+}
+
+
